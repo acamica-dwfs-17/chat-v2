@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "username": "guille",
+      "creationDate": 1585697920696,
+      "_id": "1127fbdf-48e9-4770-bec9-b520da77e2ba"
+    }
+  ],
+  "messages": [
+    {
+      "user": {
+        "username": "guille",
+        "creationDate": 1585697920696,
+        "_id": "1127fbdf-48e9-4770-bec9-b520da77e2ba"
+      },
+      "message": "holis",
+      "date": 1585698809763,
+      "_id": "1a6cbf9b-7791-415e-9be6-401c351f2051"
+    },
+    {
+      "user": {
+        "username": "leo",
+        "creationDate": 1585697920696,
+        "_id": "1127fbdf-48e9-4770-bec9-b520da77e2ba"
+      },
+      "message": "holis",
+      "date": 1585698928475,
+      "_id": "afce6374-b39b-4b4e-b10f-d8232a43fe0b"
+    },
+    {
+      "user": {
+        "username": "guille",
+        "creationDate": 1585697920696,
+        "_id": "1127fbdf-48e9-4770-bec9-b520da77e2ba"
+      },
+      "message": "holis",
+      "date": 1585699472014,
+      "_id": "794a0ef8-5dea-4bc5-ba3b-30031d42fecb"
+    },
+    {
+      "user": {
+        "username": "leo",
+        "creationDate": 1585697920696,
+        "_id": "1127fbdf-48e9-4770-bec9-b520da77e2ba"
+      },
+      "message": "holis",
+      "date": 1585699516962,
+      "_id": "5a110993-1a96-436a-b5cd-a53c9dec7f00"
+    },
+    {
+      "user": {
+        "username": "guille",
+        "creationDate": 1585697920696,
+        "_id": "1127fbdf-48e9-4770-bec9-b520da77e2ba"
+      },
+      "message": "holis",
+      "date": 1585699540388,
+      "_id": "30bdfd2b-d808-4325-8179-25d47fd0d357"
+    }
+  ]
+}
